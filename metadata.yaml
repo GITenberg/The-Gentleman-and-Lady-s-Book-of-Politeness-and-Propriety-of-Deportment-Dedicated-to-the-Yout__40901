@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '40890'
     url: http://www.gutenberg.org/2009/agents/40890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40901#The-Gentleman-and-Lady-s-Book-of-Politeness-and-Propriety-of-Deportment-Dedicated-to-the-Yout_
 gutenberg_issued: '2012-09-30'
 gutenberg_type: Text
 identifiers:
